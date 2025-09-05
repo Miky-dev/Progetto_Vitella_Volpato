@@ -91,7 +91,7 @@ src/
 
 ```
 
-git clone https://github.com/tuousername/Progetto-Java-Bacheca-annunci.git
+https://github.com/Miky-dev/Progetto_Vitella_Volpato.git
 
 ```
 
