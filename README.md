@@ -73,7 +73,6 @@ src/
 │   └── annunci.txt
 │
 ├── .classpath
-├── annunci.txt
 ├── Progetto_Vitella_Volpato.iml
 └── Javadoc.md
 
