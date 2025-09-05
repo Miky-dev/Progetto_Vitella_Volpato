@@ -90,20 +90,17 @@ src/
 1. Clona il repository:
 
 ```
-
 https://github.com/Miky-dev/Progetto_Vitella_Volpato.git
-
 ```
 
 2. Importa il progetto nel tuo IDE preferito come progetto Java esistente
 
-3. Compila ed esegui la classe `main.Main`
-
-4. L'applicazione mostrerà un menu per scegliere tra:
-
-- Interfaccia grafica
-- Interfaccia a riga di comando
-- Uscita dal programma
+3. Esegui la classe Main.java
+   L'applicazione mostrerà un menu per scegliere tra:
+   
+    - Interfaccia grafica
+    - Interfaccia a riga di comando
+    - Uscita dal programma
 
 ## 💻 Utilizzo
 
@@ -111,17 +108,17 @@ https://github.com/Miky-dev/Progetto_Vitella_Volpato.git
 
 1. Dopo il login, verrai accolto dalla schermata principale con:
 
-- Un pannello superiore con i pulsanti delle operazioni
-- Un pannello centrale che mostra gli annunci esistenti
-- Un pannello inferiore che mostra le informazioni dell'utente attuale
+- Una sezione superiore con i pulsanti delle operazioni
+- Una sezione scrollabile centrale che mostra gli annunci esistenti
+- Una sezione inferiore che mostra le informazioni dell'utente loggato; nome e mail.
 
-2. Utilizza i pulsanti per:
+2. Operazioni principali:
 
-- Aggiungere un nuovo annuncio
-- Rimuovere un annuncio esistente
-- Cercare annunci per parole chiave
-- Pulire la bacheca dagli annunci scaduti
-- Aggiungere parole chiave a un annuncio esistente
+- Aggiungere un nuovo annuncio: apre una form per titolo, descrizione, prezzo, scadenza e parole chiave.
+- Rimuovere un annuncio esistente (se autorizzato).
+- Cercare annunci per parole chiave.
+- Pulire la bacheca dagli annunci scaduti.
+- Aggiunta di parole chiave a un annuncio esistente (se autorizzato).
 
 ### Interfaccia a riga di comando
 
@@ -135,7 +132,7 @@ https://github.com/Miky-dev/Progetto_Vitella_Volpato.git
 - Aggiungi parola chiave ad annuncio
 - Esci
 
-2. Segui le istruzioni a schermo per ogni operazione
+2. Seguire le istruzioni testuali per inserire i dati.
 
 ## 🧪 Test
 
@@ -148,9 +145,4 @@ Il progetto include test unitari completi implementati con JUnit 5 per:
 Per eseguire i test, utilizza la funzionalità di test del tuo IDE o esegui i test JUnit direttamente.
 
 ---
-
-⭐ **Nota**: Questo progetto è stato sviluppato come parte del corso di Programmazione ad Oggetti all'Università del Piemonte Orientale.
-
-```
-
-```
+Nella relazione tratteremo tutte le classi nello specifico.
