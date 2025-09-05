@@ -1,7 +1,0 @@
-845;mario@gmail.com;mario123;stampante;24.98;vendita;canon, stampante, usato;2027-09-01
-8153;ricky02@gmail.com;ricky02;applewatch;230.00;acquisto;usato;null
-6471;paolo.bianchi@gmail.com;paolo99;stampante epson;12.00;acquisto;stampante, epson;null
-6604;marco.rossi02@gmail.it;marco02;playstation;100.00;acquisto;sony, console, ps4;null
-993871478;micheleCaputo@gmail.com;michele;iphone 14;700.90;vendita;iphone, 14, 64Gb, apple;2030-01-01
-616322907;dfghjk@j.il;sdfghj;mouse gaming;66.00;vendita;gaming, mouse, rbg;2028-01-01
-1793756553;jhgfyhbn@hj.il;dfghnbgh78;gino;45.00;acquisto;gino, pino;null

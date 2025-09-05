@@ -1,2 +1,0 @@
-1191150007;miky@gmail.com;miky123;mgkpna;34.00;vendita;gino, pippo;2004-08-15
-904876687;gino@gmail.com;gino;sdfghj;35.00;acquisto;gino, pippo;null
