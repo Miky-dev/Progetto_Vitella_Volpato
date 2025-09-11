@@ -1,2 +1,0 @@
-694756583;giovanni.neri@example.com;giovanniNeri;Smartphone;279.00;vendita;elettronica, touchscreen;2026-09-15
-49094450;giovanni.neri@example.com;giovanniNeri;Frigorifero;320.00;vendita;elettrodomestici, cucina;2026-09-15
