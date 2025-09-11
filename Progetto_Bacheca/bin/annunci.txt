@@ -1,0 +1,15 @@
+845;mario@gmail.com;mario123;stampante;24.98;vendita;canon, stampante, usato;2027-09-01
+8153;ricky02@gmail.com;ricky02;applewatch;230.00;acquisto;usato;null
+6471;paolo.bianchi@gmail.com;paolo99;stampante epson;12.00;acquisto;stampante, epson;null
+6604;marco.rossi02@gmail.it;marco02;playstation;100.00;acquisto;sony, console, ps4;null
+993871478;micheleCaputo@gmail.com;michele;iphone 14;700.90;vendita;iphone, 14, 64Gb, apple;2030-01-01
+2749;laura.martinelli@libero.it;lauraM;monitor 27 pollici;179.90;vendita;monitor, 27pollici, led, usato;2026-11-30
+98012;g.sorrentino@mail.it;gianS;tastiera meccanica RGB;59.50;vendita;tastiera, meccanica, gaming;2025-07-15
+43005;elena.verdi@example.com;elenaV;smart TV 43 pollici;299.99;acquisto;tv, smart, led;null
+112233;roberto.lega@outlook.com;robertoL;bicicletta da corsa;450.00;vendita;bicicletta, corsa, shimano;2029-05-20
+5566;anna.falco@pec.it;annaf;tablet 10 pollici;89.90;acquisto;tablet, android, usato;null
+778899;stefano.c@proton.me;stefanoC;set cuffie wireless;39.00;vendita;cuffie, wireless, bluetooth;2026-03-10
+333444;luca.moretti@mailbox.org;lucaM;macbook pro 13;1200.00;acquisto;apple, macbook, pro;null
+90901;marina.ferri@gmail.com;marinaF;macchina per il caffè;70.25;vendita;macchina, caffè, espresso;2027-12-31
+121314;andrea.re@tiscali.it;andreaR;drone con fotocamera;249.99;vendita;drone, fotocamera, rc, DJI;2026-09-15
+555777;giulia.neri@fastmail.com;giuliaN;smartwatch samsung;129.00;acquisto;smartwatch, samsung, usato;null
